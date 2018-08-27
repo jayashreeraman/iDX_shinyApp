@@ -1,0 +1,97 @@
+"UID","Year_Installed","City","State","zip","Purchase_Price","Number_of_services","Model","Type","Company","Coil_Thickness","Patient_Weight_Limit","MD5.Hash","Average_Price"
+"Asset1",2008,"Baltimore","Maryland",21201,"52000","2","Lightspeed 16","CT","GE","4","350","ef75fe74347e14d790d1b8f43470a240",125780
+"Asset2",2014,"Oakland","California",94577,"65000","3","Lightspeed VCT 64","CT","GE","2","280","86c1ef3e2432f6af3c0d9e367108ea2e",173937
+"Asset3",2010,"Miami","Florida",33101,"81000","2","Emotion 16","CT","Siemens","3","250","50bf91f817119a9cb9c23a22d28a1e1f",72441
+"Asset4",2002,"Mesa","Arizona",85201,"92000","1","Brilliance 64","CT","Philips","4","300","7db4fa66d2920a70b47f5ee68738ff1b",113489
+"Asset5",2002,"Arlington","Virginia",20330,"75000","2","Sensation 16","CT","Siemens","3","320","ca8ae3361fd2b61ce1ce3551af9b3fbf",93784
+"Asset6",2002,"Montgomery","Alabama",36043,"48000","4","Intera 1.5T","MRI","Philips","2","260","fd309ee85c836bf9097411531e16b297",144532
+"Asset7",2013,"Portland","Oregon",97035,"51000","2","Sensation 4","CT","Siemens","4","280","7dafd48f473df059c5e8ff4154f7b8d5",54879
+"Asset8",2002,"Anaheim","California",92801,"78000","1","Lightspeed Plus","CT","GE","3","300","074409dc2e6c56f12d3635737f299146",68162
+"Asset9",2007,"Kansas City","Missouri",64030,"60000","2","Achieva 1.5T","MRI","Philips","2","350","7d048b029dec8f5bf0b16ea3632f924d",233609
+"Asset10",2009,"Henderson","Nevada",89002,"97000","0","Definition CT","MRI","GE","3","250","45a8b37ff16ad2a6a58534d814b08d32",139877
+"Asset11",2004,"Milwaukee","Wisconsin",53201,"88000","1","Emotion 6","CT","Siemens","4","300","1e7efba68f2a0bfd5cc67d572c368e33",67864
+"Asset12",2008,"Jersey City","New Jersey",7030,"69000","3","Sensation 64","CT","Siemens","4","320","377b90a6acafc137ca4f6d318d690aa9",112994
+"Asset13",2005,"Cleveland","Ohio",44101,"196000","2","Discovery","CT","GE","2","500","2b3b1cf2f190ba7983ef9f43b3db6764",313470
+"Asset14",2005,"Boise","Idaho",83701,"55000","1","Axiom Artis","NUC","Siemens","2","452","f999f35169da9dbbe88bc93d9d1bc0ac",233312
+"Asset15",2008,"Rochester","New York",14602,"64000","0","Lightspeed Ultra","CT","GE","3","397","5f66e076eebcb5a68516b18bdca39094",34512
+"Asset16",2005,"Detroit","Michigan",48127,"104000","2","Senographe 800T","MAM","GE","3","441","450ad6d574daa9f822e43f9d18b2d150",8283
+"Asset17",2007,"Greensboro","North Carolina",27214,"90000","1","Avanto 1.5T","MRI","Siemens","2","441","4e9e042bb307165526403f8c41876957",309570
+"Asset18",2008,"Tulsa","Oklahoma",74008,"84000","2","Harmony 1.0T","MRI","Siemens","3","450","089f19e7e754b55a8d00d9cf38a8b179",98368
+"Asset19",2003,"Houston","Texas",77001,"77000","2","Lightspeed QXi","CT","GE","4","452","dad20cc9743cf743289911a934864ea8",43083
+"Asset20",2009,"Anchorage","Alaska",99501,"63000","3","Signa LX 1.5T","MRI","GE","2","661","8eef650129d154d8f35966b3f1879032",192234
+"Asset21",2008,"Memphis","Tennessee",37501,"62000","1","AMX 4 Plus","RAD","GE","3","440","0c77970859c82a5ac50962397119fe0a",
+"Asset22",2012,"Sacramento","California",94203,"73000","5","Legacy","XRAY","GE","3","420","9c16619c216634b05e11d2f6b56ddc16",2743
+"Asset23",2012,"Pittsburgh","Pennsylvania",15106,"55000","0","AMX 700","RAD","GE","2","400","2bda831f7a862e17b9cabce2bfa95525",43830
+"Asset24",2001,"Fort Worth","Texas",76006,"25000","1","Advantx","VAS","GE","4","200","bcd8478aa95824ae587e89d43290b5f2",21403
+"Asset25",2013,"Dallas","Texas",75001,"32000","3","Signa LX Hispeed Plus 1.5T","MRI","GE","3","220","47d89eeb042c1c1e4d1b39e2bfe24f42",497291
+"Asset26",2003,"San Fransisco","California",94016,"18000","2","Vantage 1.5T","NUC","Toshiba","4","190","cd808d6c8784bf20c8bcc72a93db11cf",130134
+"Asset27",2005,"Atlanta","Georgia",30301,"21000","4","Selenia","MRI","Hologic","4","210","b662a4ccf1eca9e7f6d67dec080e2a44",53896
+"Asset28",2014,"Jacksonville","Florida",32034,"27000","2","FB307407U","CABLE_PARTS","GE","2","225","3b9012cd77e21f7138f4d6d242505667",
+"Asset29",2015,"Long Beach","California",90712,"32000","1","Millennium MPR","NUC","GE","3","200","b8f3a5ca4dcba196ac730b72e6f87cc6",50167
+"Asset30",2005,"Madison","Wisconsin",53558,"29000","3","Signa HD 3.0T","MRI","GE","2","205","b2b5252e8f1c162cb575ff7dd0566d61",351371
+"Asset31",2012,"Baltimore","Maryland",21201,"52000","2","Signa Excite II 1.5T","MRI","GE","4","350","ffc5510ba1ef1890f3b2f9b46499ff95",438000
+"Asset32",2002,"Baltimore","Maryland",21201,"52000","2","Gemini GXL 16","CT","Philips","4","350","573fea7bea6ec3bdf31e660205785985",441333
+"Asset1",2009,"Tulsa","Oklahoma",74008,"52000","2","Lightspeed 16","CT","GE","4","350","ef75fe74347e14d790d1b8f43470a240",125780
+"Asset2",2015,"Houston","Texas",77001,"65000","3","Lightspeed VCT 64","CT","GE","2","280","86c1ef3e2432f6af3c0d9e367108ea2e",173937
+"Asset3",2011,"Anchorage","Alaska",99501,"81000","2","Emotion 16","CT","Siemens","3","250","50bf91f817119a9cb9c23a22d28a1e1f",72441
+"Asset4",2003,"Memphis","Tennessee",37501,"92000","1","Brilliance 64","CT","Philips","4","300","7db4fa66d2920a70b47f5ee68738ff1b",113489
+"Asset5",2003,"Sacramento","California",94203,"75000","2","Sensation 16","CT","Siemens","3","320","ca8ae3361fd2b61ce1ce3551af9b3fbf",93784
+"Asset6",2003,"Pittsburgh","Pennsylvania",15106,"48000","4","Intera 1.5T","MRI","Philips","2","260","fd309ee85c836bf9097411531e16b297",144532
+"Asset7",2014,"Fort Worth","Texas",76006,"51000","2","Sensation 4","CT","Siemens","4","280","7dafd48f473df059c5e8ff4154f7b8d5",54879
+"Asset8",2003,"Dallas","Texas",75001,"78000","1","Lightspeed Plus","CT","GE","3","300","074409dc2e6c56f12d3635737f299146",68162
+"Asset9",2008,"San Fransisco","California",94016,"60000","2","Achieva 1.5T","MRI","Philips","2","350","7d048b029dec8f5bf0b16ea3632f924d",233609
+"Asset10",2010,"Atlanta","Georgia",30301,"97000","0","Definition CT","MRI","GE","3","250","45a8b37ff16ad2a6a58534d814b08d32",139877
+"Asset11",2005,"Jacksonville","Florida",32034,"88000","1","Emotion 6","CT","Siemens","4","300","1e7efba68f2a0bfd5cc67d572c368e33",67864
+"Asset12",2009,"Long Beach","California",90712,"69000","3","Sensation 64","CT","Siemens","4","320","377b90a6acafc137ca4f6d318d690aa9",112994
+"Asset13",2006,"Madison","Wisconsin",53558,"196000","2","Discovery","CT","GE","2","500","2b3b1cf2f190ba7983ef9f43b3db6764",313470
+"Asset14",2006,"Baltimore","Maryland",21201,"55000","1","Axiom Artis","NUC","Siemens","2","452","f999f35169da9dbbe88bc93d9d1bc0ac",233312
+"Asset15",2009,"Baltimore","Maryland",21201,"64000","0","Lightspeed Ultra","CT","GE","3","397","5f66e076eebcb5a68516b18bdca39094",34512
+"Asset16",2006,"Baltimore","Maryland",21201,"104000","2","Senographe 800T","MAM","GE","3","441","450ad6d574daa9f822e43f9d18b2d150",8283
+"Asset17",2008,"Oakland","California",94577,"90000","1","Avanto 1.5T","MRI","Siemens","2","441","4e9e042bb307165526403f8c41876957",309570
+"Asset18",2009,"Miami","Florida",33101,"84000","2","Harmony 1.0T","MRI","Siemens","3","450","089f19e7e754b55a8d00d9cf38a8b179",98368
+"Asset19",2004,"Mesa","Arizona",85201,"77000","2","Lightspeed QXi","CT","GE","4","452","dad20cc9743cf743289911a934864ea8",43083
+"Asset20",2010,"Arlington","Virginia",20330,"63000","3","Signa LX 1.5T","MRI","GE","2","661","8eef650129d154d8f35966b3f1879032",192234
+"Asset21",2009,"Montgomery","Alabama",36043,"62000","1","AMX 4 Plus","RAD","GE","3","440","0c77970859c82a5ac50962397119fe0a",
+"Asset22",2013,"Portland","Oregon",97035,"73000","5","Legacy","XRAY","GE","3","420","9c16619c216634b05e11d2f6b56ddc16",2743
+"Asset23",2013,"Anaheim","California",92801,"55000","0","AMX 700","RAD","GE","2","400","2bda831f7a862e17b9cabce2bfa95525",43830
+"Asset24",2002,"Kansas City","Missouri",64030,"25000","1","Advantx","VAS","GE","4","200","bcd8478aa95824ae587e89d43290b5f2",21403
+"Asset25",2014,"Henderson","Nevada",89002,"32000","3","Signa LX Hispeed Plus 1.5T","MRI","GE","3","220","47d89eeb042c1c1e4d1b39e2bfe24f42",497291
+"Asset26",2004,"Milwaukee","Wisconsin",53201,"18000","2","Vantage 1.5T","NUC","Toshiba","4","190","cd808d6c8784bf20c8bcc72a93db11cf",130134
+"Asset27",2006,"Jersey City","New Jersey",7030,"21000","4","Selenia","MRI","Hologic","4","210","b662a4ccf1eca9e7f6d67dec080e2a44",53896
+"Asset28",2015,"Cleveland","Ohio",44101,"27000","2","FB307407U","CABLE_PARTS","GE","2","225","3b9012cd77e21f7138f4d6d242505667",
+"Asset29",2016,"Boise","Idaho",83701,"32000","1","Millennium MPR","NUC","GE","3","200","b8f3a5ca4dcba196ac730b72e6f87cc6",50167
+"Asset30",2006,"Rochester","New York",14602,"29000","3","Signa HD 3.0T","MRI","GE","2","205","b2b5252e8f1c162cb575ff7dd0566d61",351371
+"Asset31",2013,"Detroit","Michigan",48127,"52000","2","Signa Excite II 1.5T","MRI","GE","4","350","ffc5510ba1ef1890f3b2f9b46499ff95",438000
+"Asset32",2003,"Greensboro","North Carolina",27214,"52000","2","Gemini GXL 16","CT","Philips","4","350","573fea7bea6ec3bdf31e660205785985",441333
+"Asset1",2011,"Portland","Oregon",97035,"51000","3","Lightspeed 16","CT","GE","4","350","ef75fe74347e14d790d1b8f43470a240",125780
+"Asset2",2017,"Anaheim","California",92801,"78000","4","Lightspeed VCT 64","CT","GE","2","280","86c1ef3e2432f6af3c0d9e367108ea2e",173937
+"Asset3",2013,"Kansas City","Missouri",64030,"60000","3","Emotion 16","CT","Siemens","3","250","50bf91f817119a9cb9c23a22d28a1e1f",72441
+"Asset4",2005,"Henderson","Nevada",89002,"97000","2","Brilliance 64","CT","Philips","4","300","7db4fa66d2920a70b47f5ee68738ff1b",113489
+"Asset5",2005,"Milwaukee","Wisconsin",53201,"88000","3","Sensation 16","CT","Siemens","3","320","ca8ae3361fd2b61ce1ce3551af9b3fbf",93784
+"Asset6",2005,"Jersey City","New Jersey",7030,"69000","5","Intera 1.5T","MRI","Philips","2","260","fd309ee85c836bf9097411531e16b297",144532
+"Asset7",2016,"Cleveland","Ohio",44101,"196000","3","Sensation 4","CT","Siemens","4","280","7dafd48f473df059c5e8ff4154f7b8d5",54879
+"Asset8",2005,"Boise","Idaho",83701,"55000","2","Lightspeed Plus","CT","GE","3","300","074409dc2e6c56f12d3635737f299146",68162
+"Asset9",2010,"Rochester","New York",14602,"64000","3","Achieva 1.5T","MRI","Philips","2","350","7d048b029dec8f5bf0b16ea3632f924d",233609
+"Asset10",2012,"Detroit","Michigan",48127,"104000","1","Definition CT","MRI","GE","3","250","45a8b37ff16ad2a6a58534d814b08d32",139877
+"Asset11",2007,"Greensboro","North Carolina",27214,"90000","2","Emotion 6","CT","Siemens","4","300","1e7efba68f2a0bfd5cc67d572c368e33",67864
+"Asset12",2011,"Tulsa","Oklahoma",74008,"84000","4","Sensation 64","CT","Siemens","4","320","377b90a6acafc137ca4f6d318d690aa9",112994
+"Asset13",2008,"Houston","Texas",77001,"77000","3","Discovery","CT","GE","2","500","2b3b1cf2f190ba7983ef9f43b3db6764",313470
+"Asset14",2008,"Baltimore","Maryland",21201,"52000","2","Axiom Artis","NUC","Siemens","2","452","f999f35169da9dbbe88bc93d9d1bc0ac",233312
+"Asset15",2011,"Oakland","California",94577,"65000","1","Lightspeed Ultra","CT","GE","3","397","5f66e076eebcb5a68516b18bdca39094",34512
+"Asset16",2008,"Miami","Florida",33101,"81000","3","Senographe 800T","MAM","GE","3","441","450ad6d574daa9f822e43f9d18b2d150",8283
+"Asset17",2010,"Mesa","Arizona",85201,"92000","2","Avanto 1.5T","MRI","Siemens","2","441","4e9e042bb307165526403f8c41876957",309570
+"Asset18",2011,"Arlington","Virginia",20330,"75000","3","Harmony 1.0T","MRI","Siemens","3","450","089f19e7e754b55a8d00d9cf38a8b179",98368
+"Asset19",2006,"Montgomery","Alabama",36043,"48000","3","Lightspeed QXi","CT","GE","4","452","dad20cc9743cf743289911a934864ea8",43083
+"Asset20",2012,"Anchorage","Alaska",99501,"63000","4","Signa LX 1.5T","MRI","GE","2","661","8eef650129d154d8f35966b3f1879032",192234
+"Asset21",2011,"Memphis","Tennessee",37501,"62000","2","AMX 4 Plus","RAD","GE","3","440","0c77970859c82a5ac50962397119fe0a",
+"Asset22",2015,"Sacramento","California",94203,"73000","6","Legacy","XRAY","GE","3","420","9c16619c216634b05e11d2f6b56ddc16",2743
+"Asset23",2015,"Pittsburgh","Pennsylvania",15106,"55000","1","AMX 700","RAD","GE","2","400","2bda831f7a862e17b9cabce2bfa95525",43830
+"Asset24",2004,"Fort Worth","Texas",76006,"25000","2","Advantx","VAS","GE","4","200","bcd8478aa95824ae587e89d43290b5f2",21403
+"Asset25",2016,"Dallas","Texas",75001,"32000","4","Signa LX Hispeed Plus 1.5T","MRI","GE","3","220","47d89eeb042c1c1e4d1b39e2bfe24f42",497291
+"Asset26",2006,"San Fransisco","California",94016,"18000","3","Vantage 1.5T","NUC","Toshiba","4","190","cd808d6c8784bf20c8bcc72a93db11cf",130134
+"Asset27",2008,"Atlanta","Georgia",30301,"21000","5","Selenia","MRI","Hologic","4","210","b662a4ccf1eca9e7f6d67dec080e2a44",53896
+"Asset28",2017,"Jacksonville","Florida",32034,"27000","3","FB307407U","CABLE_PARTS","GE","2","225","3b9012cd77e21f7138f4d6d242505667",
+"Asset29",2018,"Long Beach","California",90712,"32000","2","Millennium MPR","NUC","GE","3","200","b8f3a5ca4dcba196ac730b72e6f87cc6",50167
+"Asset30",2008,"Madison","Wisconsin",53558,"29000","4","Signa HD 3.0T","MRI","GE","2","205","b2b5252e8f1c162cb575ff7dd0566d61",351371
+"Asset31",2015,"Baltimore","Maryland",21201,"52000","3","Signa Excite II 1.5T","MRI","GE","4","350","ffc5510ba1ef1890f3b2f9b46499ff95",438000
+"Asset32",2005,"Baltimore","Maryland",21201,"52000","3","Gemini GXL 16","CT","Philips","4","350","573fea7bea6ec3bdf31e660205785985",441333

@@ -1,0 +1,96 @@
+---
+title: "AssetReport"
+author: "JRaman"
+header-includes: 
+   \usepackage{graphicx}
+   \usepackage{fancyhdr}
+   \pagestyle{fancy}
+   \setlength\headheight{28pt}
+   \fancyhead[L]{\includegraphics[width=5cm]{C:/Users/Jayashree RAMAN/Documents/iDX/shiny-atp/idx_logo.JPG}}
+   \fancyfoot[LE,RO]{GPIM}
+output: pdf_document
+params: 
+  data: NULL
+n : NA
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(tinytex.verbose = TRUE)
+library(kableExtra)
+```
+
+```{r echo=FALSE}
+def.chunk.hook  <- knitr::knit_hooks$get("chunk")
+knitr::knit_hooks$set(chunk = function(x, options) {
+  x <- def.chunk.hook(x, options)
+  ifelse(options$size != "normalsize", paste0("\\", options$size,"\n\n", x, "\n\n \\normalsize"), x)
+})
+```
+
+
+  
+  
+
+```{r size="huge", fig.align='center', echo=FALSE, warning=FALSE}
+
+kable(paste0("iDX Asset Report"), format="pandoc") %>%
+    kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+
+
+
+kable(paste0('Generated on ' , format(Sys.time(), '%d %B, %Y')), format = "pandoc")%>%
+    kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
+
+
+```
+
+
+```{r echo=FALSE, out.width='100%', fig.align='center'}
+knitr::include_graphics('C:/Users/Jayashree RAMAN/Documents/iDX/shiny-atp/idx_logo.JPG')
+```
+
+
+\newpage
+#Details of Asset:
+
+```{r echo=FALSE}
+# The `params` object is available in the document.
+#params$data
+
+# ![iDX Logo](C:/Users/Jayashree RAMAN/Documents/iDX/shiny-atp/idx_logo.JPG)
+
+mData <- (params$data)
+
+
+mData <- data.frame(mData)
+
+paste0(nrow(mData))
+paste0(ncol(mData))
+
+mData_t <- (t(mData))
+paste0(nrow(mData_t))
+
+paste0(row.names(mData))
+
+rNames <- (rownames(mData))
+df  <-  as.data.frame(matrix(unlist(mData), nrow=length(unlist(mData[1]))))
+
+#paste0(mData)
+kable(mData_t)
+
+```
+
+
+
+History of Asset:
+```{r}
+#Here we go!
+
+
+#print(paste("x",params$data,sep=""))
+#A<-read.delim(params$data,header=T,sep="\t")
+#kable(A)
+```

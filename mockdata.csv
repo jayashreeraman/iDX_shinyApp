@@ -1,0 +1,98 @@
+UID,YearManufactured,City,State,zip,Purchase_Price,Number_of_services,Model,Category,OEM,Currency,Make,Type,Date,Retail_Price,Condition,Buyback_Price,Sell_Price
+Asset1,2008,Baltimore,Maryland,21201,140000,2,Lightspeed 16,CT,GE,USD,SIG,Complete System,6/17/2018,125780,Unknown,88046,79202
+Asset2,2014,Oakland,California,94577,190000,3,Lightspeed VCT 64,CT,GE,USD,SGS,Complete System,6/17/2018,173937,Used,121755.9,122543.3
+Asset3,2010,Miami,Florida,33101,81000,2,Emotion 16,CT,Siemens,USD,aa,Complete System,6/17/2018,72441,Unknown,50708.7,31196.9
+Asset4,2002,Mesa,Arizona,85201,125000,1,Brilliance 64,CT,Philips,USD,LET,Complete System,6/17/2018,113489,New,79442.3,68140.1
+Asset5,2002,Arlington,Virginia,20330,102500,2,Sensation 16,CT,Siemens,USD,LJL BioSystems,Complete System,6/17/2018,93784,Used,65648.8,50405.6
+Asset6,2002,Montgomery,Alabama,36043,148000,4,Intera 1.5T,MRI,Philips,USD,Universal Pack,Complete System,6/17/2018,144532,Used,101172.4,96078.8
+Asset7,2013,Portland,Oregon,97035,62300,2,Sensation 4,CT,Siemens,USD,milford,Complete System,6/3/2018,54879,Unknown,38415.3,15391.1
+Asset8,2002,Anaheim,California,92801,78000,1,Lightspeed Plus,CT,GE,USD,Ventana,Complete System,6/17/2018,68162,Used,47713.4,27345.8
+Asset9,2007,Kansas City,Missouri,64030,260000,2,Achieva 1.5T,MRI,Philips,USD,Ventana,Complete System,6/17/2018,233609,Used,163526.3,176248.1
+Asset10,2009,Henderson,Nevada,89002,147500,0,Definition CT,MRI,GE,USD,Ventana,Complete System,6/17/2018,139877,Unknown,97913.9,91889.3
+Asset11,2004,Milwaukee,Wisconsin,53201,88000,1,Emotion 6,CT,Siemens,USD,Nalgene,Complete System,6/17/2018,67864,Used,47504.8,27077.6
+Asset12,2008,Jersey City,New Jersey,7030,124000,3,Sensation 64,CT,Siemens,USD,LET,Complete System,6/17/2018,112994,Used,79095.8,67694.6
+Asset13,2005,Cleveland,Ohio,44101,356725,2,Discovery,CT,GE,USD,LJL BioSystems,Complete System,6/17/2018,313470,Used,219429,248123
+Asset14,2005,Boise,Idaho,83701,255750,1,Axiom Artis,NUC,Siemens,USD,Universal Pack,Complete System,6/17/2018,233312,Used,163318.4,175980.8
+Asset15,2008,Rochester,New York,14602,64000,0,Lightspeed Ultra,CT,GE,USD,LJL BioSystems,Complete System,6/17/2018,34512,Used,24158.4,-2939.2
+Asset16,2005,Detroit,Michigan,48127,1040,2,Senographe 800T,MAM,GE,USD,milford,Complete System,6/3/2018,8283,Used,5798.1,-26545.3
+Asset17,2007,Greensboro,North Carolina,27214,325000,1,Avanto 1.5T,MRI,Siemens,USD,AWM Rainforcing Business,Complete System,6/3/2018,309570,New,216699,244613
+Asset18,2008,Tulsa,Oklahoma,74008,104000,2,Harmony 1.0T,MRI,Siemens,USD,Nalgene,Complete System,6/3/2018,98368,Unknown,68857.6,54531.2
+Asset19,2003,Houston,Texas,77001,77000,2,Lightspeed QXi,CT,GE,USD,Ventana,Complete System,6/3/2018,43083,Used,30158.1,4774.7
+Asset20,2009,Anchorage,Alaska,99501,213000,3,Signa LX 1.5T,MRI,GE,USD,Ventana,Complete System,6/3/2018,192234,Used,134563.8,139010.6
+Asset21,2008,Memphis,Tennessee,37501,62000,1,AMX 4 Plus,RAD,GE,USD,Ventana,Complete System,6/3/2018,55000,Used,38500,15500
+Asset22,2012,Sacramento,California,94203,33000,5,Legacy,XRAY,GE,USD,Cole-Parmer,Complete System,6/18/2018,27430,Unknown,19201,-9313
+Asset23,2012,Pittsburgh,Pennsylvania,15106,55000,0,AMX 700,RAD,GE,USD,,Complete System,6/3/2018,43830,Used,30681,5447
+Asset24,2001,Fort Worth,Texas,76006,25000,1,Advantx,VAS,GE,USD,Universal Pack,Complete System,6/18/2018,21403,Used,14982.1,-14737.3
+Asset25,2013,Dallas,Texas,75001,332000,3,Signa LX Hispeed Plus 1.5T,MRI,GE,USD,LJL BioSystems,Complete System,6/18/2018,497291,Unknown,348103.7,413561.9
+Asset26,2003,San Fransisco,California,94016,180000,2,Vantage 1.5T,NUC,Toshiba,USD,Universal Pack,Complete System,6/18/2018,130134,New,91093.8,83120.6
+Asset27,2005,Atlanta,Georgia,30301,71000,4,Selenia,MRI,Hologic,USD,milford,Complete System,6/3/2018,53896,Used,37727.2,14506.4
+Asset28,2014,Jacksonville,Florida,32034,27000,2,FB307407U,CABLE_PARTS,GE,USD,milford,Parts,6/3/2018,23525,Unknown,16467.5,-12827.5
+Asset29,2015,Long Beach,California,90712,52000,1,Millennium MPR,NUC,GE,USD,AWM Rainforcing Business,Complete System,6/19/2018,50167,Used,35116.9,11150.3
+Asset30,2005,Madison,Wisconsin,53558,39000,3,Signa HD 3.0T,MRI,GE,USD,Cole-Parmer,Complete System,6/19/2018,351371,Used,245959.7,282233.9
+Asset31,2012,Baltimore,Maryland,21201,52000,2,Signa Excite II 1.5T,MRI,GE,USD,Nalgene,Complete System,6/19/2018,438000,Used,306600,360200
+Asset32,2002,Baltimore,Maryland,21201,52000,2,Gemini GXL 16,CT,Philips,USD,Ventana,Complete System,6/19/2018,441333,Unknown,308933.1,363199.7
+Asset1,2009,Tulsa,Oklahoma,74008,140000,2,Lightspeed 16,CT,GE,USD,Ventana,Complete System,6/3/2018,125780,Used,88046,79202
+Asset2,2015,Houston,Texas,77001,190000,3,Lightspeed VCT 64,CT,GE,USD,Ventana,Complete System,6/19/2018,173937,Unknown,121755.9,122543.3
+Asset3,2011,Anchorage,Alaska,99501,81000,2,Emotion 16,CT,Siemens,USD,AWM Rainforcing Business,Complete System,6/3/2018,72441,New,50708.7,31196.9
+Asset4,2003,Memphis,Tennessee,37501,125000,1,Brilliance 64,CT,Philips,USD,LET,Complete System,6/3/2018,113489,Used,79442.3,68140.1
+Asset5,2003,Sacramento,California,94203,102500,2,Sensation 16,CT,Siemens,USD,LJL BioSystems,Complete System,6/3/2018,93784,Used,65648.8,50405.6
+Asset6,2003,Pittsburgh,Pennsylvania,15106,148000,4,Intera 1.5T,MRI,Philips,USD,Universal Pack,Complete System,6/17/2018,144532,Unknown,101172.4,96078.8
+Asset7,2014,Fort Worth,Texas,76006,62300,2,Sensation 4,CT,Siemens,USD,LJL BioSystems,Complete System,6/17/2018,54879,Used,38415.3,15391.1
+Asset8,2003,Dallas,Texas,75001,78000,1,Lightspeed Plus,CT,GE,USD,milford,Complete System,6/17/2018,68162,Used,47713.4,27345.8
+Asset9,2008,San Fransisco,California,94016,260000,2,Achieva 1.5T,MRI,Philips,USD,AWM Rainforcing Business,Complete System,6/17/2018,233609,Unknown,163526.3,176248.1
+Asset10,2010,Atlanta,Georgia,30301,147500,0,Definition CT,MRI,GE,USD,Nalgene,Complete System,6/17/2018,139877,Used,97913.9,91889.3
+Asset11,2005,Jacksonville,Florida,32034,88000,1,Emotion 6,CT,Siemens,USD,Ventana,Complete System,6/17/2018,67864,Used,47504.8,27077.6
+Asset12,2009,Long Beach,California,90712,124000,3,Sensation 64,CT,Siemens,USD,Ventana,Complete System,6/3/2018,112994,Used,79095.8,67694.6
+Asset13,2006,Madison,Wisconsin,53558,356725,2,Discovery,CT,GE,USD,Ventana,Complete System,6/17/2018,313470,Used,219429,248123
+Asset14,2006,Baltimore,Maryland,21201,255750,1,Axiom Artis,NUC,Siemens,USD,Cole-Parmer,Complete System,6/17/2018,233312,Used,163318.4,175980.8
+Asset15,2009,Baltimore,Maryland,21201,64000,0,Lightspeed Ultra,CT,GE,USD,,Complete System,6/17/2018,34512,Used,24158.4,-2939.2
+Asset16,2006,Baltimore,Maryland,21201,1040,2,Senographe 800T,MAM,GE,USD,Universal Pack,Complete System,6/17/2018,8283,New,5798.1,-26545.3
+Asset17,2008,Oakland,California,94577,325000,1,Avanto 1.5T,MRI,Siemens,USD,LJL BioSystems,Complete System,6/17/2018,309570,Unknown,216699,244613
+Asset18,2009,Miami,Florida,33101,104000,2,Harmony 1.0T,MRI,Siemens,USD,Universal Pack,Complete System,6/17/2018,98368,Used,68857.6,54531.2
+Asset19,2004,Mesa,Arizona,85201,77000,2,Lightspeed QXi,CT,GE,USD,milford,Complete System,6/17/2018,43083,Used,30158.1,4774.7
+Asset20,2010,Arlington,Virginia,20330,213000,3,Signa LX 1.5T,MRI,GE,USD,milford,Complete System,6/17/2018,192234,Used,134563.8,139010.6
+Asset21,2009,Montgomery,Alabama,36043,62000,1,AMX 4 Plus,RAD,GE,USD,AWM Rainforcing Business,Complete System,6/3/2018,,Unknown,0,-34000
+Asset22,2013,Portland,Oregon,97035,33000,5,Legacy,XRAY,GE,USD,Cole-Parmer,Complete System,6/3/2018,2743,Used,1920.1,-31531.3
+Asset23,2013,Anaheim,California,92801,55000,0,AMX 700,RAD,GE,USD,Nalgene,Complete System,6/3/2018,43830,Used,30681,5447
+Asset24,2002,Kansas City,Missouri,64030,25000,1,Advantx,VAS,GE,USD,Ventana,Complete System,6/3/2018,21403,Unknown,14982.1,-14737.3
+Asset25,2014,Henderson,Nevada,89002,332000,3,Signa LX Hispeed Plus 1.5T,MRI,GE,USD,Ventana,Complete System,6/3/2018,497291,New,348103.7,413561.9
+Asset26,2004,Milwaukee,Wisconsin,53201,180000,2,Vantage 1.5T,NUC,Toshiba,USD,Ventana,Complete System,6/3/2018,130134,Used,91093.8,83120.6
+Asset27,2006,Jersey City,New Jersey,7030,71000,4,Selenia,MRI,Hologic,USD,AWM Rainforcing Business,Complete System,6/18/2018,53896,Unknown,37727.2,14506.4
+Asset28,2015,Cleveland,Ohio,44101,27000,2,FB307407U,CABLE_PARTS,GE,USD,LET,Parts,6/3/2018,,Used,0,-34000
+Asset29,2016,Boise,Idaho,83701,52000,1,Millennium MPR,NUC,GE,USD,LJL BioSystems,Complete System,6/18/2018,50167,Used,35116.9,11150.3
+Asset30,2006,Rochester,New York,14602,39000,3,Signa HD 3.0T,MRI,GE,USD,Universal Pack,Complete System,6/18/2018,351371,Used,245959.7,282233.9
+Asset31,2013,Detroit,Michigan,48127,52000,2,Signa Excite II 1.5T,MRI,GE,USD,LJL BioSystems,Complete System,6/18/2018,438000,Unknown,306600,360200
+Asset32,2003,Greensboro,North Carolina,27214,52000,2,Gemini GXL 16,CT,Philips,USD,milford,Complete System,6/3/2018,441333,Used,308933.1,363199.7
+Asset1,2011,Portland,Oregon,97035,140000,3,Lightspeed 16,CT,GE,USD,AWM Rainforcing Business,Complete System,6/3/2018,125780,Unknown,88046,79202
+Asset2,2017,Anaheim,California,92801,190000,4,Lightspeed VCT 64,CT,GE,USD,Nalgene,Complete System,6/19/2018,173937,New,121755.9,122543.3
+Asset3,2013,Kansas City,Missouri,64030,81000,3,Emotion 16,CT,Siemens,USD,Ventana,Complete System,6/19/2018,72441,Used,50708.7,31196.9
+Asset4,2005,Henderson,Nevada,89002,125000,2,Brilliance 64,CT,Philips,USD,Ventana,Complete System,6/19/2018,113489,Used,79442.3,68140.1
+Asset5,2005,Milwaukee,Wisconsin,53201,102500,3,Sensation 16,CT,Siemens,USD,Ventana,Complete System,6/19/2018,93784,Unknown,65648.8,50405.6
+Asset6,2005,Jersey City,New Jersey,7030,148000,5,Intera 1.5T,MRI,Philips,USD,Cole-Parmer,Complete System,6/3/2018,144532,Used,101172.4,96078.8
+Asset7,2016,Cleveland,Ohio,44101,62300,3,Sensation 4,CT,Siemens,USD,,Complete System,6/19/2018,54879,Used,38415.3,15391.1
+Asset8,2005,Boise,Idaho,83701,78000,2,Lightspeed Plus,CT,GE,USD,Universal Pack,Complete System,6/3/2018,68162,Unknown,47713.4,27345.8
+Asset9,2010,Rochester,New York,14602,260000,3,Achieva 1.5T,MRI,Philips,USD,LJL BioSystems,Complete System,6/3/2018,233609,Used,163526.3,176248.1
+Asset10,2012,Detroit,Michigan,48127,147500,1,Definition CT,MRI,GE,USD,Universal Pack,Complete System,6/3/2018,139877,Used,97913.9,91889.3
+Asset11,2007,Greensboro,North Carolina,27214,88000,2,Emotion 6,CT,Siemens,USD,milford,Complete System,6/17/2018,67864,Used,47504.8,27077.6
+Asset12,2011,Tulsa,Oklahoma,74008,124000,4,Sensation 64,CT,Siemens,USD,milford,Complete System,6/17/2018,112994,Used,79095.8,67694.6
+Asset13,2008,Houston,Texas,77001,356725,3,Discovery,CT,GE,USD,AWM Rainforcing Business,Complete System,6/17/2018,313470,Used,219429,248123
+Asset14,2008,Baltimore,Maryland,21201,255750,2,Axiom Artis,NUC,Siemens,USD,Cole-Parmer,Complete System,6/17/2018,233312,Used,163318.4,175980.8
+Asset15,2011,Oakland,California,94577,64000,1,Lightspeed Ultra,CT,GE,USD,Nalgene,Complete System,6/17/2018,34512,New,24158.4,-2939.2
+Asset16,2008,Miami,Florida,33101,1040,3,Senographe 800T,MAM,GE,USD,Ventana,Complete System,6/17/2018,8283,Unknown,5798.1,-26545.3
+Asset17,2010,Mesa,Arizona,85201,325000,2,Avanto 1.5T,MRI,Siemens,USD,Ventana,Complete System,6/3/2018,309570,Used,216699,244613
+Asset18,2011,Arlington,Virginia,20330,104000,3,Harmony 1.0T,MRI,Siemens,USD,Ventana,Complete System,6/17/2018,98368,Used,68857.6,54531.2
+Asset19,2006,Montgomery,Alabama,36043,77000,3,Lightspeed QXi,CT,GE,USD,AWM Rainforcing Business,Complete System,6/17/2018,43083,Used,30158.1,4774.7
+Asset20,2012,Anchorage,Alaska,99501,213000,4,Signa LX 1.5T,MRI,GE,USD,SIG,Complete System,6/17/2018,192234,Unknown,134563.8,139010.6
+Asset21,2011,Memphis,Tennessee,37501,62000,2,AMX 4 Plus,RAD,GE,USD,SGS,Complete System,6/17/2018,,Used,0,-34000
+Asset22,2015,Sacramento,California,94203,33000,6,Legacy,XRAY,GE,USD,aa,Complete System,6/17/2018,2743,Used,1920.1,-31531.3
+Asset23,2015,Pittsburgh,Pennsylvania,15106,55000,1,AMX 700,RAD,GE,USD,LET,Complete System,6/17/2018,43830,Unknown,30681,5447
+Asset24,2004,Fort Worth,Texas,76006,25000,2,Advantx,VAS,GE,USD,LJL BioSystems,Complete System,6/17/2018,21403,New,14982.1,-14737.3
+Asset25,2016,Dallas,Texas,75001,332000,4,Signa LX Hispeed Plus 1.5T,MRI,GE,USD,Universal Pack,Complete System,6/17/2018,497291,Used,348103.7,413561.9
+Asset26,2006,San Fransisco,California,94016,180000,3,Vantage 1.5T,NUC,Toshiba,USD,milford,Complete System,6/3/2018,130134,Unknown,91093.8,83120.6
+Asset27,2008,Atlanta,Georgia,30301,71000,5,Selenia,MRI,Hologic,USD,Ventana,Complete System,6/3/2018,53896,Used,37727.2,14506.4
+Asset28,2017,Jacksonville,Florida,32034,27000,3,FB307407U,CABLE_PARTS,GE,USD,Ventana,Parts,6/3/2018,,Used,0,-34000
+Asset29,2018,Long Beach,California,90712,52000,2,Millennium MPR,NUC,GE,USD,Ventana,Complete System,6/3/2018,50167,Used,35116.9,11150.3
+Asset30,2008,Madison,Wisconsin,53558,39000,4,Signa HD 3.0T,MRI,GE,USD,Nalgene,Complete System,6/3/2018,351371,Unknown,245959.7,282233.9
+Asset31,2015,Baltimore,Maryland,21201,52000,3,Signa Excite II 1.5T,MRI,GE,USD,SIG,Complete System,6/3/2018,438000,Used,306600,360200
+Asset32,2005,Baltimore,Maryland,21201,52000,3,Gemini GXL 16,CT,Philips,USD,SGS,Complete System,6/18/2018,441333,Unknown,308933.1,363199.7
+Asset33,2018,Portland,Oregon,91105,140000,2,Lightspeed 16,CT,GE,USD,SIG,Complete System,8/27/2018,125780,New,88046,79202

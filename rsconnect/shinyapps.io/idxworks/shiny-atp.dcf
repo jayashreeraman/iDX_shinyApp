@@ -1,0 +1,12 @@
+name: shiny-atp
+title: shiny-atp
+username:
+account: idxworks
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 401537
+bundleId: 1549224
+url: https://idxworks.shinyapps.io/shiny-atp/
+when: 1534963855.77258
+asMultiple: FALSE
+asStatic: FALSE
